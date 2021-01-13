@@ -1,0 +1,8 @@
+<launch>
+    <node
+        pkg="turtle_mai_publisher"
+        type="main.py"
+        name="publisher"
+        output="screen"
+    />
+</launch>
